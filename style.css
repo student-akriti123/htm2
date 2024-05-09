@@ -1,0 +1,36 @@
+*{
+    color:"blue"
+}
+
+
+
+h1{
+color:rgb(231, 25, 25)
+
+}
+
+p{
+
+    color:rgb(16, 16, 229)
+}
+
+button{
+color:chartreuse
+
+}
+body{
+    background-color: chartreuse;
+}
+
+button{
+    background-color: aquamarine;
+}
+.myclass{
+    color:blue
+}
+#headingone{
+    color:bisque
+}
+#headingtwo{
+    color:rgb(16, 16, 229)
+}
